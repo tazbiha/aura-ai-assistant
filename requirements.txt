@@ -1,0 +1,36 @@
+# Aura-MT67 production requirements
+# Python 3.11+ required
+# Install with: python -m pip install -r requirements.txt
+
+# AI / Google
+google-genai>=1.0.0
+google-generativeai>=0.8.3
+
+# Audio
+sounddevice>=0.4.6
+
+# Vision
+opencv-python>=4.9.0.80
+mss>=9.0.1
+Pillow>=10.3.0
+
+# Web / Browser
+playwright>=1.44.0
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+duckduckgo-search>=6.1.0
+youtube-transcript-api>=0.6.2
+
+# System control
+pyautogui>=0.9.54
+pyperclip>=1.8.2
+pygetwindow>=0.0.9
+send2trash>=1.8.3
+pywinauto>=0.6.8; sys_platform == "win32"
+comtypes>=1.4.1; sys_platform == "win32"
+pycaw>=20240210; sys_platform == "win32"
+win10toast>=0.9; sys_platform == "win32"
+
+# Utilities
+numpy>=1.26.4
+psutil>=5.9.8
