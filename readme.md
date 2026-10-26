@@ -1,26 +1,3 @@
-```
-     ██╗ █████╗ ██████╗ ██╗   ██╗██╗███████╗    ███╗   ███╗████████╗ ██████╗ ███████╗
-     ██║██╔══██╗██╔══██╗██║   ██║██║██╔════╝    ████╗ ████║╚══██╔══╝██╔════╝ ╚════██║
-     ██║███████║██████╔╝██║   ██║██║███████╗    ██╔████╔██║   ██║   ████████     ██╔╝    
-██   ██║██╔══██║██╔══██╗╚██╗ ██╔╝██║╚════██║    ██║╚██╔╝██║   ██║   ██╔═══╝██  ██╔╝    
-╚█████╔╝██║  ██║██║  ██║ ╚████╔╝ ██║███████║    ██║ ╚═╝ ██║   ██║   ╚██████╗   ██║    
- ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝    ╚═╝     ╚═╝   ╚═╝    ╚═════╝   ╚═╝     
-```
-
-### **I'm not AI-powered, I'm AI-possessed. There's a difference— MT67**
-
-*A fully autonomous, always-listening AI personal assistant.*
-
-[![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![Gemini 2.5 Flash](https://img.shields.io/badge/Gemini_2.5_Flash-Native_Audio-4285F4?style=flat-square&logo=google&logoColor=white)](https://deepmind.google)
-[![OpenCV](https://img.shields.io/badge/OpenCV-Camera_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org)
-[![Playwright](https://img.shields.io/badge/Playwright-Browser_Control-45BA4B?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev)
-[![Telegram](https://img.shields.io/badge/Telegram-Bridge-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://telegram.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-
-> *"Sometimes you gotta run before you can walk."* — Tony Stark
-
----
 
 ## 🤖 What is AURA-MT67?
 
